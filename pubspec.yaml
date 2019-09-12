@@ -1,5 +1,5 @@
 name: json_streamer
-description: A new Flutter project.
+description: A Flutter demo project to experiment with dynamic list view building with streams
 
 dependencies:
   flutter:
